@@ -1,0 +1,4 @@
+1  ITC  3C3C4      
+2  CM   3C1C2C3    
+3  ITC  3C1C2C3    
+4  JSK  4C2C4      
